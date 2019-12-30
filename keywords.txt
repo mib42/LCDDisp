@@ -1,0 +1,56 @@
+#######################################
+# Syntax Coloring Map For LCDDisp
+####################################### 
+# Class
+#######################################
+
+LCDDisp	KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+begin	KEYWORD2
+avail	KEYWORD2
+clear	KEYWORD2
+home	KEYWORD2
+cols	KEYWORD2
+rows	KEYWORD2
+backLightOn		KEYWORD2
+backLightOff	KEYWORD2
+isBacklightOn	KEYWORD2
+cursorOn	KEYWORD2
+cursorOff	KEYWORD2
+cursorBlink	KEYWORD2
+cursorBlinkOff	KEYWORD2
+displayOn	KEYWORD2
+displayOff	KEYWORD2
+display	KEYWORD2
+shiftCursor	KEYWORD2
+shiftDisplay	KEYWORD2
+moveCursorTo	KEYWORD2
+putChar	KEYWORD2
+putString	KEYWORD2
+putNumber	KEYWORD2
+createChar	KEYWORD2
+
+#######################################
+# Constants
+#######################################
+
+PCF8574A_BASE		LITERAL1
+PCF8574_BASE		LITERAL1
+PCF8574_DEVICE_0	LITERAL1
+PCF8574_DEVICE_1	LITERAL1
+PCF8574_DEVICE_2	LITERAL1
+PCF8574_DEVICE_3	LITERAL1
+PCF8574_DEVICE_4	LITERAL1
+PCF8574_DEVICE_5	LITERAL1
+PCF8574_DEVICE_6	LITERAL1
+PCF8574_DEVICE_7	LITERAL1
+CMD_CTRL_ON	LITERAL1
+CMD_CTRL_CURSOR_ON	LITERAL1
+CMD_CTRL_CURSOR_BLINK	LITERAL1
+CMD_SHIFT_RIGHT	LITERAL1
+CMD_SHIFT_LEFT	LITERAL1
+
